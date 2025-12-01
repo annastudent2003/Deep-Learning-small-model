@@ -4,6 +4,7 @@
 * Implement a CNN for image classification (MNIST / CIFAR-10 preferred).
 
 * Code must include:
+
        * Data loading & preprocessing
        * Model architecture
        * Training loop (forward pass, loss, backpropagation, optimizer)
